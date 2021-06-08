@@ -32,6 +32,8 @@
 
 import SwiftUI
 
+// Added comment for the source control
+
 struct FruitRow: View {
 	var fruit: Fruit
 
